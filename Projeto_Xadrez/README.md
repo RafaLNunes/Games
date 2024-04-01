@@ -1,3 +1,3 @@
-# GAMES
+# xadrez em C#
 
-## Aqui terá a Lista de Games
+descrição sobre como funciona o xadrez
